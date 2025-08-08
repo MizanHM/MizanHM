@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**MizanHM/MizanHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Mizan!
+I'm a passionate data scientist from Ethiopia 🇪🇹
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I work with:
+    Python | R 
+    Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on health data
+- 🌱 I’m currently learning SQL
+- 👯 I’m looking to collaborate on Health/Public Health related projects 
+- 📫 mizanhabte924@gmail.com
